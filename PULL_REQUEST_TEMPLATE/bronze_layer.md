@@ -3,7 +3,7 @@
 
 ## Checklist
 
-- [ ] Provided screenshot of succesful job run in workbench
+- [ ] Provided screenshot of succesful job run in workbenchs
 - [ ] Added documentation to dbt for new columns
 - [ ] Added data tests to dbt docs (if appropriate)
 - [ ] Read through appropriate standards for the layer you are working on
