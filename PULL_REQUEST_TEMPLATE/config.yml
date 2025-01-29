@@ -1,7 +1,0 @@
-blank_issues_enabled: false
-pull_request_templates:
-  - generic.md
-  - bronze_layer.md
-  - silver_layer.md
-  - multi_layer.md
-  - gold_layer.md
